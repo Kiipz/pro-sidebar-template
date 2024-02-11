@@ -244,3 +244,7 @@ $sidebar-footer-height: 64px;
 ## License
 
 This code is released under the [MIT](https://github.com/azouaoui-med/pro-sidebar-template/blob/gh-pages/LICENSE) license.
+
+## Codepen
+
+Available on [codepan](https://codepen.io/azouaoui-med/pen/wpBadb) 
