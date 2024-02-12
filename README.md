@@ -14,7 +14,7 @@ Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascr
 
 ```
 # clone the repo
-$ git clone https://github.com/azouaoui-med/pro-sidebar-template.git my-project
+$ git clone https://github.com/Kiipz/pro-sidebar-template.git
 
 # go into app's directory
 $ cd my-project
